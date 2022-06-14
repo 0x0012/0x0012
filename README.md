@@ -1,4 +1,6 @@
 ### Hi there 👋
+# Soy Max Coronado Lorca
+### Ingeniero Civil en Minas, y computín desde bebé.
 
 <!--
 **0x0012/0x0012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
