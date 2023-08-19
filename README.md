@@ -14,7 +14,7 @@ class MiningEngineer:
     def say_hi(self):
         print("Real miners don't need maps - they just follow the ore!")
 
-me = SoftwareEngineer()
+me = MiningEngineer()
 me.say_hi()
 ```
 
