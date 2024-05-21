@@ -32,4 +32,7 @@ const MAX_CORONADO_LORCA = {
 }
 ```
 
-[<img alt="Github" src="https://img.shields.io/badge/GitHub-333.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/maxcoronadolorca) [<img alt="Twitter" src="https://img.shields.io/badge/twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/0x0012_) [<img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0e76a8.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/maxcoronadolorca)
+![GitHub followers](https://img.shields.io/github/followers/0x0012) ![GitHub User's stars](https://img.shields.io/github/stars/0x0012)
+
+
+
