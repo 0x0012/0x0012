@@ -7,7 +7,7 @@ Hi there ✋!
 class MiningEngineer:
 
     def __init__(self):
-        self.name = "Max Coronado Lorca"
+        self.name = "Max"
         self.role = "Mining Engineer"
         self.language_spoken = ["es_CL", "en_US"]
 
@@ -23,11 +23,11 @@ me.say_hi()
  * @description My IT/DEV Profile
  * @type {object}
  */
-const MAX_CORONADO_LORCA = {
+const MAX = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, Python, VBA],
   frameworks: [React, Node, Bootstrap, Tailwind, Jquery, Django, Flask],
-  tools: [VScode, Helix, Neovim],
+  tools: [VScode, Helix, Zed, Neovim],
   databases: [PostgreSQL, MySQL, MongoDB],
 }
 ```
