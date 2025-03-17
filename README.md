@@ -31,5 +31,3 @@ const MAX = {
   databases: [PostgreSQL, MySQL, MongoDB],
 }
 ```
-
-[![GitHub followers](https://img.shields.io/github/followers/0x0012)](https://github.com/0x0012) [![GitHub User's stars](https://img.shields.io/github/stars/0x0012)](https://github.com/0x0012) [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/0x0012_)](https://x.com/0x0012_)
